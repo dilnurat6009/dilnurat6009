@@ -43,10 +43,13 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Mimic-Deltamath Project</h1>
-            <p>Text about the project</p>
-            <p>More text about the project.</p>
+            <h1 class="margin text-center">Reflection and Overview of Deltamath Project</h1>
+            <p> I did this project to benefit my learning skills. Considering coding is new to me, I wanted to practice and better my skills in the topics that im currently learning which is HTML and CSS. I choose to do Deltamath because I thought it was an easy concept and had outputs that I had learned.  </p>
+            <p> Throughout my experience working on this assignment I learned and improved my current skills. I learned more about CSS and used tags that I was not so familiar with, which later led to me being more knowledable.</p>
+            <p> Though I thought Deltamath would be easy, it definatly came with challenges. Some of the challenges I faced is positioning, positioning was difficult for me because I hadn't really used this element much before, however, I overcame this challenge by looking over my notes, watching videos, and testing some codes.
+     
             <a href="https://MimicAttempt2.dilnurat6009.repl.co">Preview of the project</a><br>
+
             <a href="https://repl.it/@dilnurat6009/MimicAttempt2#index.html">Coding that done behind the project</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
@@ -54,7 +57,7 @@
             <!--EXAMPLE OF GITHUB LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName ">Github</a>-->
 
-            <img src="../img/avatar.png" class="img-fluid project-img">
+            <img src="../img/deltamth-mimic.png" class="img-fluid project-img">
 
 
             <div class="row">
