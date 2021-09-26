@@ -13,7 +13,7 @@ p {
 }
 
 a {
-    color: #D984A3;
+    color: #2e72a1;
 }
 
 #logo, .project-img {
@@ -40,8 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    background-color: #F2D5E5; /* pink */
+    color: #D96C80;
 }
 
 .card {
