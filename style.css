@@ -81,3 +81,7 @@ a {
 .navbar-nav li a:hover {
     color: #F2D5E5 !important;
 }
+
+.logo {
+    position:center;
+}
