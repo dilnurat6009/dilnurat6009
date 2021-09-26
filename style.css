@@ -83,7 +83,7 @@ a {
 }
 
 .logo {
-    position:center;
+    position:fixed;
     left:10px;
     width: 100px;
     height:100px;
